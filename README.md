@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! it's me Siddhant Chalke</h1>
-<h3 align="center">Currently I am into Machine Learning and Deep Learning, I have also developed a few Android Apps based on Kotlin.</h3>
+<h3 align="center">Currently I am into Machine Learning and Deep Learning, I have also developed a few Android Apps based on Kotlin. I regularly solve problems on LeetCode.</h3>
 
 <p align="left">
 </p>
